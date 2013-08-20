@@ -1,9 +1,9 @@
 {
-	"name": "hexmedia/administrator-bundle",
+	"name": "hexmedia/knockout-bundle",
 	"type": "symfony-bundle",
 	"description": "HexmediaAdministrator panel main bundle",
-	"keywords": ["administrator", "cms", "panel", "admin panel"],
-	"homepage": "http://www.hexmedia.pl/symfony/administrator",
+	"keywords": ["knockoutjs"],
+	"homepage": "http://www.hexmedia.pl/symfony/knockout",
 	"license": "MIT",
 	"authors": [
 		{
@@ -23,8 +23,8 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"Hexmedia\\AdministratorBundle": ""
+			"Hexmedia\\KnockoutBundle": ""
 		}
 	},
-	"target-dir": "Hexmedia/AdministratorBundle"
+	"target-dir": "Hexmedia/KnockoutBundle"
 }
