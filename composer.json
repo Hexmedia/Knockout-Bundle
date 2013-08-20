@@ -1,7 +1,7 @@
 {
 	"name": "hexmedia/knockout-bundle",
 	"type": "symfony-bundle",
-	"description": "HexmediaAdministrator panel main bundle",
+	"description": "Symfony2 knockout integration",
 	"keywords": ["knockoutjs"],
 	"homepage": "http://www.hexmedia.pl/symfony/knockout",
 	"license": "MIT",
